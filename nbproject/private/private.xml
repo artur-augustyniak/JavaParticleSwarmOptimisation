@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/artur/Desktop/JavaParticleSwarmOptimisation/src/pl/wieckowp/pso/functions/Bohachevsky2.java</file>
+            <file>file:/home/artur/Desktop/JavaParticleSwarmOptimisation/src/pl/wieckowp/pso/functions/SchafferF6.java</file>
+            <file>file:/home/artur/Desktop/JavaParticleSwarmOptimisation/src/pl/wieckowp/pso/functions/Rastrigin.java</file>
+            <file>file:/home/artur/Desktop/JavaParticleSwarmOptimisation/src/pl/wieckowp/pso/functions/Parabol.java</file>
+            <file>file:/home/artur/Desktop/JavaParticleSwarmOptimisation/src/pl/wieckowp/pso/functions/Ackley.java</file>
+            <file>file:/home/artur/Desktop/JavaParticleSwarmOptimisation/src/pl/aaugustyniak/pso/PsoParams.java</file>
+            <file>file:/home/artur/Desktop/JavaParticleSwarmOptimisation/src/pl/aaugustyniak/pso/JPso.java</file>
+            <file>file:/home/artur/Desktop/JavaParticleSwarmOptimisation/src/pl/aaugustyniak/pso/logic/Pso.java</file>
+            <file>file:/home/artur/Desktop/JavaParticleSwarmOptimisation/src/pl/aaugustyniak/pso/logic/Swarm.java</file>
+            <file>file:/home/artur/Desktop/JavaParticleSwarmOptimisation/src/pl/aaugustyniak/pso/logic/Particle.java</file>
+            <file>file:/home/artur/Desktop/JavaParticleSwarmOptimisation/src/pl/aaugustyniak/pso/logic/FunctionInterface.java</file>
+            <file>file:/home/artur/Desktop/JavaParticleSwarmOptimisation/src/pl/wieckowp/pso/functions/Michalewicz.java</file>
+            <file>file:/home/artur/Desktop/JavaParticleSwarmOptimisation/src/pl/wieckowp/pso/functions/SchafferF7.java</file>
+            <file>file:/home/artur/Desktop/JavaParticleSwarmOptimisation/src/pl/wieckowp/pso/view/ConsolePrinter.java</file>
+        </group>
+    </open-files>
+</project-private>
